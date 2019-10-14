@@ -2,8 +2,8 @@ const response = [
     {
         name: 'Decadent Week in Cape Town',
         image: 'cape-town.jpg',
-        dateFrom: 'Oct 13th 2019',
-        dateTo: 'Oct 18th 2019',
+        dateFrom: '2019-10-13T00:00:00.000Z',
+        dateTo: '2019-10-18T00:00:00.000Z',
         guests: 4,
         category: 'adventure',
         copy:
@@ -12,8 +12,8 @@ const response = [
     {
         name: 'Relax in Maui',
         image: 'bali.jpg',
-        dateFrom: 'Oct 25th 2019',
-        dateTo: 'Oct 27th 2019',
+        dateFrom: '2019-10-25T00:00:00.000Z',
+        dateTo: '2019-10-27T00:00:00.000Z',
         guests: 2,
         category: 'relaxing',
         copy:
@@ -22,8 +22,8 @@ const response = [
     {
         name: 'Weekend in Vegas',
         image: 'vegas.jpg',
-        dateFrom: 'May 7th 2020',
-        dateTo: 'May 10th 2020',
+        dateFrom: '2020-05-07T00:00:00.000Z',
+        dateTo: '2020-05-10T00:00:00.000Z',
         guests: 2,
         category: 'weekend break',
         copy:
@@ -32,8 +32,8 @@ const response = [
     {
         name: 'Hiking in the Peaks',
         image: 'peaks.jpg',
-        dateFrom: 'July 6th 2020',
-        dateTo: 'July 10th 2020',
+        dateFrom: '2020-07-06T00:00:00.000Z',
+        dateTo: '2020-07-10T00:00:00.000Z',
         guests: 2,
         category: 'adventure',
         copy: 'Helvetica umami selvage. Locavore gluten-free tacos, small batch banh mi shoreditch.'
@@ -41,8 +41,8 @@ const response = [
     {
         name: 'Relaxing in Punta Cana',
         image: 'puntacana.jpg',
-        dateFrom: 'Aug 7th 2020',
-        dateTo: 'Aug 9th 2020',
+        dateFrom: '2020-08-07T00:00:00.000Z',
+        dateTo: '2020-08-09T00:00:00.000Z',
         guests: 2,
         category: 'weekend break',
         copy:
@@ -51,8 +51,8 @@ const response = [
     {
         name: 'Weekend at an Ice Hotel',
         image: 'icehotel.jpg',
-        dateFrom: 'Jan 14th 2020',
-        dateTo: 'Jan 16th 2020',
+        dateFrom: '2020-01-14T00:00:00.000Z',
+        dateTo: '2020-01-16T00:00:00.000Z',
         guests: 4,
         category: 'family',
         copy:
@@ -61,8 +61,8 @@ const response = [
     {
         name: 'Best of Rio de Janeiro',
         image: 'rio.jpg',
-        dateFrom: 'Jan 14th 2020',
-        dateTo: 'Jan 21th 2020',
+        dateFrom: '2020-01-14T00:00:00.000Z',
+        dateTo: '2020-01-21T00:00:00.000Z',
         guests: 3,
         category: 'weekend break',
         copy:
@@ -71,8 +71,8 @@ const response = [
     {
         name: 'Midsummer in Helsinki',
         image: 'helsinki.jpg',
-        dateFrom: 'June 19th 2020',
-        dateTo: 'June 21th 2020',
+        dateFrom: '2020-06-19T00:00:00.000Z',
+        dateTo: '2020-06-21T00:00:00.000Z',
         guests: 2,
         category: 'weekend break',
         copy:
@@ -81,8 +81,8 @@ const response = [
     {
         name: 'Gardens of Damyang',
         image: 'korea.jpg',
-        dateFrom: 'May 22nd 2020',
-        dateTo: 'May 30th 2020',
+        dateFrom: '2020-05-22T00:00:00.000Z',
+        dateTo: '2020-05-30T00:00:00.000Z',
         guests: 2,
         category: 'adventure',
         copy:
@@ -91,8 +91,8 @@ const response = [
     {
         name: 'India',
         image: 'india.jpg',
-        dateFrom: 'Dec 2nd 2019',
-        dateTo: 'Feb 9th 2020',
+        dateFrom: '2019-12-02T00:00:00.000Z',
+        dateTo: '2020-02-09T00:00:00.000Z',
         guests: 1,
         category: 'family',
         copy:
@@ -101,8 +101,8 @@ const response = [
     {
         name: 'A Weekend in Vancouver',
         image: 'vancouver.jpg',
-        dateFrom: 'Oct 5st 2019',
-        dateTo: 'Oct 8st 2019',
+        dateFrom: '2019-10-05T00:00:00.000Z',
+        dateTo: '2019-10-08T00:00:00.000Z',
         guests: 2,
         category: 'family',
         copy:
@@ -111,8 +111,8 @@ const response = [
     {
         name: 'Antwerpen',
         image: 'antwerpen.jpg',
-        dateFrom: 'March 2nd 2020',
-        dateTo: 'March 4th 2020',
+        dateFrom: '2020-03-02T00:00:00.000Z',
+        dateTo: '2020-03-04T00:00:00.000Z',
         guests: 2,
         category: 'weekend trip',
         copy:
@@ -121,8 +121,8 @@ const response = [
     {
         name: 'Decadent Week in Cape Town',
         image: 'cape-town.jpg',
-        dateFrom: 'Oct 13th 2019',
-        dateTo: 'Oct 18th 2019',
+        dateFrom: '2019-10-13T00:00:00.000Z',
+        dateTo: '2019-10-18T00:00:00.000Z',
         guests: 4,
         category: 'adventure',
         copy:
@@ -131,8 +131,8 @@ const response = [
     {
         name: 'A Weekend in Boston',
         image: 'boston.jpg',
-        dateFrom: 'Oct 4th 2019',
-        dateTo: 'Oct 6th 2019',
+        dateFrom: '2019-10-04T00:00:00.000Z',
+        dateTo: '2019-10-06T00:00:00.000Z',
         guests: 3,
         category: 'family, weekend break',
         copy: 'Take a Duck Boat ride, shop at Faneuil Hall, or maybe hit up a Bruins game.'
@@ -140,8 +140,8 @@ const response = [
     {
         name: ' Amazing Week in Bali',
         image: 'bali.jpg',
-        dateFrom: 'Oct 16th 2019',
-        dateTo: 'Oct 22th 2019',
+        dateFrom: '2019-10-16T00:00:00.000Z',
+        dateTo: '2019-10-22T00:00:00.000Z',
         guests: 4,
         category: 'family',
         copy:
@@ -150,8 +150,8 @@ const response = [
     {
         name: 'The Atlanta Experience',
         image: 'atlanta.jpg',
-        dateFrom: 'Oct 24th 2019',
-        dateTo: 'Oct 27th 2019',
+        dateFrom: '2019-10-24T00:00:00.000Z',
+        dateTo: '2019-10-27T00:00:00.000Z',
         guests: 2,
         category: 'long weekend',
         copy:
@@ -160,8 +160,8 @@ const response = [
     {
         name: 'Sculpture Park',
         image: 'sculpturePark.jpg',
-        dateFrom: 'Oct 27th 2019',
-        dateTo: 'Spt 03th 2019',
+        dateFrom: '2019-10-27T00:00:00.000Z',
+        dateTo: '2019-09-03T00:00:00.000Z',
         guests: 1,
         category: 'family',
         copy:
@@ -170,8 +170,8 @@ const response = [
     {
         name: 'Meeting Ancestors at Serra da Capivara National Park',
         image: 'serraDaCapivara.jpg',
-        dateFrom: 'Oct 16th 2019',
-        dateTo: 'Oct 30th 2019',
+        dateFrom: '2019-10-16T00:00:00.000Z',
+        dateTo: '2019-10-30T00:00:00.000Z',
         guests: 4,
         category: 'World Heritage Site',
         copy:
@@ -180,8 +180,8 @@ const response = [
     {
         name: 'Pittsburgh',
         image: '',
-        dateFrom: 'Dec 15th 2019',
-        dateTo: 'Dec 18th 2019',
+        dateFrom: '2019-12-15T00:00:00.000Z',
+        dateTo: '2019-12-18T00:00:00.000Z',
         guests: 1,
         category: 'family',
         copy:
@@ -190,8 +190,8 @@ const response = [
     {
         name: 'Legoland Germany',
         image: 'legoland.jpg',
-        dateFrom: 'Oct 06th 2019',
-        dateTo: 'Oct 20th 2019',
+        dateFrom: '2019-10-06T00:00:00.000Z',
+        dateTo: '2019-10-20T00:00:00.000Z',
         guests: 4,
         category: 'family',
         copy:
@@ -200,8 +200,8 @@ const response = [
     {
         name: 'Weekend in Vegas',
         image: 'vegas.jpg',
-        dateFrom: 'May 7th 2020',
-        dateTo: 'May 10th 2020',
+        dateFrom: '2020-05-07T00:00:00.000Z',
+        dateTo: '2020-05-10T00:00:00.000Z',
         guests: 2,
         category: 'weekend break',
         copy:
@@ -210,8 +210,8 @@ const response = [
     {
         name: 'Hiking in the Peaks',
         image: 'peaks.jpg',
-        dateFrom: 'July 6th 2020',
-        dateTo: 'July 10th 2020',
+        dateFrom: '2020-07-06T00:00:00.000Z',
+        dateTo: '2020-07-10T00:00:00.000Z',
         guests: 2,
         category: 'adventure',
         copy: 'Helvetica umami selvage. Locavore gluten-free tacos, small batch banh mi shoreditch.'
@@ -219,8 +219,8 @@ const response = [
     {
         name: 'Family Day Out',
         image: 'cliff.jpg',
-        dateFrom: 'Feb 12th 2020',
-        dateTo: 'Feb 15th 2020',
+        dateFrom: '2020-02-12T00:00:00.000Z',
+        dateTo: '2020-02-15T00:00:00.000Z',
         guests: 4,
         category: 'family',
         copy: 'Air plant tattooed schlitz pinterest heirloom. Knausgaard gastropub chartreuse.'
@@ -228,8 +228,8 @@ const response = [
     {
         name: 'Relaxing in Punta Cana',
         image: 'puntacana.jpg',
-        dateFrom: 'Aug 7th 2020',
-        dateTo: 'Aug 9th 2020',
+        dateFrom: '2020-08-07T00:00:00.000Z',
+        dateTo: '2020-08-09T00:00:00.000Z',
         guests: 2,
         category: 'weekend break',
         copy:
@@ -238,8 +238,8 @@ const response = [
     {
         name: 'Celebration in New York',
         image: 'newyork.jpeg',
-        dateFrom: 'Dec 7th 2020',
-        dateTo: 'Dec 9th 2020',
+        dateFrom: '2020-12-07T00:00:00.000Z',
+        dateTo: '2020-12-09T00:00:00.000Z',
         guests: 2,
         category: 'celebration',
         copy: 'Leverage agile frameworks to provide a robust synopsis for high level overviews.'
@@ -247,8 +247,8 @@ const response = [
     {
         name: 'Tettegouche State Park',
         image: 'tettegouche.jpg',
-        dateFrom: 'Sept 28th 2019',
-        dateTo: 'Sept 28th 2019',
+        dateFrom: '2019-09-28T00:00:00.000Z',
+        dateTo: '2019-09-28T00:00:00.000Z',
         guests: 1,
         category: 'State Park',
         copy:
@@ -257,8 +257,8 @@ const response = [
     {
         name: 'Vacay in Mauritius',
         image: 'mauritius.jpg',
-        dateFrom: 'Oct 13th 2019',
-        dateTo: 'Oct 18th 2019',
+        dateFrom: '2019-10-13T00:00:00.000Z',
+        dateTo: '2019-10-18T00:00:00.000Z',
         guests: 4,
         category: 'family',
         copy:
@@ -267,8 +267,8 @@ const response = [
     {
         name: 'Japan Adventure',
         image: 'japan.jpg',
-        dateFrom: 'Oct 8th 2019',
-        dateTo: 'Oct 14th 2019',
+        dateFrom: '2019-10-08T00:00:00.000Z',
+        dateTo: '2019-10-14T00:00:00.000Z',
         guests: 5,
         category: 'Adventure',
         copy:
@@ -277,8 +277,8 @@ const response = [
     {
         name: 'Meeting Florianopolis',
         image: 'florianopolis.jpg',
-        dateFrom: 'Oct 16th 2019',
-        dateTo: 'Oct 30th 2019',
+        dateFrom: '2019-10-16T00:00:00.000Z',
+        dateTo: '2019-10-30T00:00:00.000Z',
         guests: 4,
         category: 'weekend trip',
         copy:
@@ -287,8 +287,8 @@ const response = [
     {
         name: 'Weekend in Moscow',
         image: 'moscow.jpg',
-        dateFrom: 'Oct 18th 2019',
-        dateTo: 'Oct 21th 2019',
+        dateFrom: '2019-10-18T00:00:00.000Z',
+        dateTo: '2019-10-21T00:00:00.000Z',
         guests: 2,
         category: 'weekend break',
         copy:
@@ -297,8 +297,8 @@ const response = [
     {
         name: 'Weekend in Mon Cham',
         image: 'moncham.jpg',
-        dateFrom: 'Nov 14th 2019',
-        dateTo: 'Nov 16th 2019',
+        dateFrom: '2019-11-14T00:00:00.000Z',
+        dateTo: '2019-11-16T00:00:00.000Z',
         guests: 5,
         category: 'weekend trip',
         copy: 'Mon Cham sits on top of a small mountain'
@@ -306,8 +306,8 @@ const response = [
     {
         name: 'Trecking in Kasol',
         image: 'trek.jpg',
-        dateFrom: 'Oct 24th 2019',
-        dateTo: 'Oct 26th 2019',
+        dateFrom: '2019-10-24T00:00:00.000Z',
+        dateTo: '2019-10-26T00:00:00.000Z',
         guests: 5,
         category: 'adventure',
         copy:
@@ -316,8 +316,8 @@ const response = [
     {
         name: 'Spa Day at the Blue Lagoon in Iceland',
         image: 'iceland.jpg',
-        dateFrom: 'Oct 3rd 2020',
-        dateTo: 'Oct 10th 2020',
+        dateFrom: '2020-10-03T00:00:00.000Z',
+        dateTo: '2020-10-10T00:00:00.000Z',
         guests: 4,
         category: 'family',
         copy:
@@ -326,8 +326,8 @@ const response = [
     {
         name: 'Weeked in Japan',
         image: 'shirakawago.jpg',
-        dateFrom: 'Dec 28th 2019',
-        dateTo: 'Jan 2th 2020',
+        dateFrom: '2019-12-28T00:00:00.000Z',
+        dateTo: '2020-01-02T00:00:00.000Z',
         guests: 5,
         category: 'family',
         copy:
@@ -337,8 +337,8 @@ const response = [
 
         name: 'Adventure in Ponta Negra - Rio Grande do Norte',
         image: 'pontanegra.jpg',
-        dateFrom: 'Oct 10th 2019',
-        dateTo: 'Nov 10th 2019',
+        dateFrom: '2019-10-10T00:00:00.000Z',
+        dateTo: '2019-11-10T00:00:00.000Z',
         guests: 5,
         category: 'adventure',
         copy:
@@ -347,8 +347,8 @@ const response = [
   {
         name: 'Empire State Building',
         image: 'empire-state-building.jpeg',
-        dateFrom: 'Nov 14th 2019',
-        dateTo: 'Nov 15th 2019',
+        dateFrom: '2019-11-14T00:00:00.000Z',
+        dateTo: '2019-11-15T00:00:00.000Z',
         guests: 2,
         category: 'family',
         copy:
@@ -357,8 +357,8 @@ const response = [
     {
       name: 'A Week In Cancun',
       image: 'Cancun.jpg',
-      dateFrom: 'May 1nd 2020',
-      dateTo: 'May 7th 2020',
+      dateFrom: '2020-05-01T00:00:00.000Z',
+      dateTo: '2020-05-07T00:00:00.000Z',
       guests: 2,
       category: 'adventure',
       copy:
